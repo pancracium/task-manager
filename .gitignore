@@ -1,0 +1,9 @@
+*.spec
+/dist
+/build
+todo.txt
+*.zip
+README.md
+/.vscode
+/__pycache__
+error.png
